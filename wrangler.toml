@@ -9,4 +9,4 @@ class_name = "SyncRoom"
 
 [[migrations]]
 tag = "v1"
-new_classes = ["SyncRoom"]
+new_sqlite_classes = ["SyncRoom"]
